@@ -1,7 +1,7 @@
 ---
 title: "Factores de desarrollo"
 bg: "#9fa4cc"
-color: black
+color: white
 ---
 
 # FACTORES DE DESARROLLO

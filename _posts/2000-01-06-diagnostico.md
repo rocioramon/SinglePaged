@@ -1,7 +1,7 @@
 ---
 title: "Diagnóstico y tratamiento"
 bg: "#9fccbc"
-color: black
+color: white
 ---
 
 # DIAGNÓSTICO Y TRATAMIENTO

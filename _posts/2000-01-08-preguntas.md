@@ -1,7 +1,7 @@
 ---
 title: "Preguntas frecuentes"
 bg: "#a7cc9f"
-color: black
+color: white
 ---
 
 # PREGUNTAS FRECUENTES
