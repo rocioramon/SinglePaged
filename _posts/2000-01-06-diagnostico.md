@@ -24,3 +24,16 @@ color: black
 <div class="icontain">
   <iframe src="//www.youtube.com/embed/x5Ca9q6iybA" allowfullscreen></iframe>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <img  src="img/info-diagnostico1.jpeg">
+</div>
+
+<br>
+
+<div align="center">
+  <img  src="img/info-diagnostico2.jpeg">
+</div>

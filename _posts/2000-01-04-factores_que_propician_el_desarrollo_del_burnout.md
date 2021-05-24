@@ -15,3 +15,10 @@ color: black
 <div class="icontain">
   <iframe src="//www.youtube.com/embed/XBl8Gsb7r5Y" allowfullscreen></iframe>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <img  src="img/info-factores.jpeg">
+</div>

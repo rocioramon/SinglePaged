@@ -15,3 +15,10 @@ color: black
 <div class="icontain">
   <iframe src="//www.youtube.com/embed/rkagEsmTomU" allowfullscreen></iframe>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <img  src="img/info-prevencion.jpeg">
+</div>
