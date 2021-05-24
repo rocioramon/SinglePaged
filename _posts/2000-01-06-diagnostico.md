@@ -35,5 +35,5 @@ color: white
 <br>
 
 <div align="center">
-  <img style="width:30%; height:30%" src="img/info-diagnostico2.jpeg">
+  <img style="width:45%; height:45%" src="img/info-diagnostico2.jpeg">
 </div>
