@@ -1,6 +1,6 @@
 ---
 title: "Manifestación y síntomas"
-bg: "#b184bd"
+bg: "#ffffff"
 color: black
 ---
 

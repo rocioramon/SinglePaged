@@ -1,6 +1,6 @@
 ---
 title: "Diagnóstico y tratamiento"
-bg: "#84bdbc"
+bg: "#9fccbc"
 color: black
 ---
 

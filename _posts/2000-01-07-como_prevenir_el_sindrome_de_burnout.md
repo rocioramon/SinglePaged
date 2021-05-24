@@ -1,6 +1,6 @@
 ---
 title: "Prevención"
-bg: "#84bdb0"
+bg: "#ffffff"
 color: black
 ---
 

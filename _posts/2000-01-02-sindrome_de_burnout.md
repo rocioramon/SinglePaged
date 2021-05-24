@@ -1,6 +1,6 @@
 ---
 title: "Síndrome de Burnout"
-bg: "#bd84b1"
+bg: "#956d9c"
 color: black
 ---
 

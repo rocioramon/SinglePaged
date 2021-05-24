@@ -1,6 +1,6 @@
 ---
 title: "Factores de desarrollo"
-bg: "#848ebd"
+bg: "#9fa4cc"
 color: black
 ---
 
