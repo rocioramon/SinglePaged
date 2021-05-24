@@ -20,5 +20,5 @@ color: black
 <br>
 
 <div align="center">
-  <img  src="img/info-prevencion.jpeg">
+  <img style="width:45%; height:45%" src="img/info-prevencion.jpeg">
 </div>
